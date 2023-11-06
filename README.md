@@ -8,6 +8,6 @@
 
 >[SentimentIntensityAnalyzer](https://github.com/solimanhossain/OnlyPython/tree/main/SentimentIntensityAnalyzer)
 >
-><img width="250" src="SentimentIntensityAnalyzer/output.png">
+><img width="350" src="SentimentIntensityAnalyzer/output.png">
 
 > More Coming...
